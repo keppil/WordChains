@@ -1,0 +1,6 @@
+bag
+bar
+car
+cat
+card
+dot
